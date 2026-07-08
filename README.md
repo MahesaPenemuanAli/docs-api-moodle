@@ -117,7 +117,6 @@ SMART CLASSROOM Ruang belajar modern dengan teknologi interaktif untuk pengalama
 Jumlah Ruangan : 1
 
 Smart Classroom adalah ruang belajar modern yang dirancang untuk memaksimalkan pengalaman belajar dengan teknologi interaktif dan fitur-fitur canggih. Tujuannya adalah menciptakan lingkungan belajar yang lebih fleksibel, kolaboratif, dan terintegrasi dengan teknologi digital, yang sangat cocok untuk pembelajaran dan diskusi interaktif.
-Penanggung Jawab Smart Classroom: [NAMA DIHAPUS]
 
 **Aktivitas yang dapat dilakukan:**
 A. Pembelajaran Interaktif dan Kolaboratif
@@ -148,7 +147,6 @@ LABORATORIUM Ruang pembelajaran berbasis teknologi untuk sesi kurikulum terstruk
 Jumlah Ruangan : 2
 Laboratorium Multimedia adalah ruang belajar yang dirancang untuk mendukung pembelajaran berbasis teknologi di berbagai bidang ilmu.
 Sesi pembelajaran yang berlangsung ditentukan dalam jangka waktu tertentu, biasanya bagian dari kurikulum atau modul terstruktur. Ruang laboratorium multimedia ini memiliki fleksibilitas untuk digunakan oleh berbagai program studi yang membutuhkan fasilitas teknologi untuk pembelajaran.
-Penanggung Jawab Laboratorium: [NAMA DIHAPUS]
 
 **Aktivitas yang dapat dilakukan:**
 A. Pembelajaran Teori dan Diskusi
@@ -161,7 +159,6 @@ Mahasiswa dapat belajar menggunakan perangkat lunak khusus yang mendukung pembel
 ### 2.3.2 Laboratorium High Performance Computing (HPC)
 Jumlah Ruangan : 1
 Laboratorium High Performance Computing (HPC) adalah ruang laboratorium yang didedikasikan untuk pembelajaran di bidang komputasi tingkat lanjut untuk mahasiswa. Laboratorium HPC memberikan kesempatan bagi mahasiswa untuk mempelajari, menunjukkan dan menerapkan hasil cara komputasi kinerja tingkat tinggi.
-Penanggung Jawab Laboratorium: [NAMA DIHAPUS]
 
 **Aktivitas yang dapat dilakukan:**
 A. Pembelajaran Teori Komputasi Kinerja Tinggi
@@ -177,7 +174,6 @@ Sebelum melaksanakan eksperimen di workshop HPC, mahasiswa dapat mendiskusikan d
 
 ### 2.4.1 Workshop Internet of Things dan Robotik
 Workshop Internet of Things (IoT) dan Robotik adalah ruang pelatihan dan eksperimen yang dirancang untuk memfasilitasi pembelajaran, pengembangan, dan implementasi sistem IoT. Workshop ini memberikan akses kepada pengguna untuk memahami cara kerja teknologi IoT dan menerapkannya dalam berbagai proyek praktis, mulai dari otomasi hingga pemantauan berbasis sensor.
-Penanggung Jawab Workshop: [NAMA DIHAPUS]
 
 **Aktivitas yang dapat dilakukan:**
 A. Pembelajaran dan Pengembangan Solusi IoT
@@ -191,7 +187,6 @@ Menyediakan perangkat robotik yang dilengkapi sensor dan aktuator untuk pembelaj
 
 ### 2.4.2 Workshop 3D Scanning dan Printing
 Workshop 3D Scanning dan Printing adalah ruang pelatihan dan eksperimen yang memungkinkan mahasiswa dan peneliti untuk mempelajari teknologi pemindaian (scanning) dan pencetakan (printing) 3D. Workshop ini mendukung berbagai disiplin ilmu untuk membuat model fisik dari desain digital, menghasilkan prototipe, hingga menciptakan replika objek secara detail yang berguna di berbagai bidang seperti desain, teknik, arsitektur, medis, dan seni.
-Penanggung Jawab Workshop: [NAMA DIHAPUS]
 
 **Aktivitas yang dapat dilakukan:**
 A. 3D Scanning
@@ -205,7 +200,6 @@ Setelah proses pencetakan, mahasiswa dapat melakukan penyempurnaan hasil cetak, 
 
 ### 2.4.3 Workshop Animasi dan 3D
 Workshop Animasi dan 3D adalah ruang pelatihan dan eksperimen yang dirancang khusus untuk mendukung pengembangan keterampilan dalam bidang animasi dan 3D. Workshop ini menyediakan fasilitas dan teknologi terkini yang memungkinkan mahasiswa dan dosen untuk menciptakan karya animasi berkualitas tinggi serta model 3D yang kompleks, yang dapat diterapkan di berbagai bidang seperti seni, permainan video, arsitektur, film, dan industri kreatif lainnya.
-Penanggung Jawab Workshop: [NAMA DIHAPUS]
 
 **Aktivitas yang dapat dilakukan:**
 A. Pembuatan Animasi 2D dan 3D
@@ -222,7 +216,6 @@ Menghasilkan output visual berkualitas tinggi dengan pengaturan cahaya, kamera, 
 ### 2.4.4 Studio Broadcasting, Videography dan Photography
 Studio Broadcasting, Videography, dan Photography merupakan fasilitas yang dirancang khusus untuk mendukung kegiatan pembelajaran, pelatihan, produksi, serta pengembangan kompetensi di bidang media visual dan komunikasi. Studio ini dilengkapi dengan berbagai peralatan profesional yang menunjang proses produksi video, fotografi, dan siaran langsung.
 Kehadiran fasilitas ini memberikan ruang praktik dan pengembangan keterampilan yang bermanfaat bagi seluruh sivitas akademika, termasuk mahasiswa, dosen, dan tenaga kependidikan, khususnya dalam bidang media, jurnalisme, periklanan, komunikasi, dokumentasi, serta seni visual.
-Penanggung Jawab: [NAMA DIHAPUS] & [NAMA DIHAPUS]
 
 **Aktivitas yang dapat dilakukan:**
 A. Pengambilan Gambar dan Video Profesional
@@ -236,7 +229,6 @@ Pengguna dapat mempelajari dan menerapkan berbagai teknik efek visual, termasuk 
 
 ### 2.4.5 Workshop High Performance Computing
 Workshop High Performance Computing (HPC) merupakan fasilitas khusus yang dirancang untuk pembelajaran dan eksperimen praktis dalam bidang komputasi kinerja tinggi. Workshop ini memberi akses kepada mahasiswa dan dosen untuk memanfaatkan daya komputasi besar yang diperlukan untuk berbagai tugas berat, seperti pemrosesan data skala besar, simulasi ilmiah, dan pengembangan model kecerdasan buatan.
-Penanggung Jawab Laboratorium: [NAMA DIHAPUS]
 
 **Aktivitas yang dapat dilakukan:**
 Eksperimen dengan Model Machine Learning dan AI Pengembangan dan pelatihan model machine learning skala besar menggunakan daya komputasi tinggi yang dimungkinkan oleh infrastruktur HPC. Cocok untuk aplikasi seperti deep learning dan analisis data besar.
@@ -327,7 +319,7 @@ Memfasilitasi peluncuran produk digital atau teknologi baru, di mana dosen atau 
 *   Ruang Laboratorium Multimedia bersih, 20 meja dan 20 kursi peserta tertata rapi, jalur sirkulasi bebas hambatan, serta jalur evakuasi tidak tertutup.
 *   15 unit komputer peserta (PC Legion), komputer instruktur, Smart TV Samsung, jaringan internet DLCB USU, UPS APC, dan sistem kelistrikan diuji singkat sebelum kegiatan dimulai.
 *   Perangkat lunak multimedia (software desain grafis, video editing, animasi, atau 3D), akun, dan file pembelajaran yang dibutuhkan telah dipastikan tersedia serta berfungsi sesuai kebutuhan kegiatan.
-*   Jadwal penggunaan laboratorium, PIC kegiatan ([NAMA DIHAPUS]), jumlah peserta (maksimal 20 orang), dan kebutuhan teknis telah tercatat pada kalender layanan.
+*   Jadwal penggunaan laboratorium, PIC kegiatan, jumlah peserta (maksimal 20 orang), dan kebutuhan teknis telah tercatat pada kalender layanan.
 *   Komputer, monitor Lenovo ThinkVision, keyboard, mouse, kabel, UPS, remote Smart TV, dan perangkat pendukung lainnya berada dalam kondisi aman, lengkap, serta telah diperiksa sebelum digunakan.
 
 ### 3.1.3 Inventaris Peralatan
